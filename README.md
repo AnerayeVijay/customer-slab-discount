@@ -12,7 +12,8 @@ git clone git@github.com:AnerayeVijay/customer-slab-discount.git
 Running the Applications
 
 - Open the project in IntelliJ IDEA
-Run BillingTest to execute all tests
+Run BillingTest to see the result
+
 
 ```kotlin
   ./gradlew build 
